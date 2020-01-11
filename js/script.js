@@ -1,0 +1,1 @@
+alert("Si tu es prêt à nous accompagner appuie OK!");
