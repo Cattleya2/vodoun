@@ -1,0 +1,20 @@
+img {
+    width: 100vh;
+    height: 75%;
+}
+
+p {
+    background-color: black;
+    color: aliceblue;
+}
+
+.divCenter {
+    text-align: center;
+    background-color: greenyellow;
+}
+
+h1 {
+    position: sticky;
+    border-color: brown;
+    border: 2px;
+}
